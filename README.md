@@ -142,9 +142,9 @@ Products are stored dynamically using singly linked lists.
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/sandipoguvarshitha/inventory-management-and-system.git
+git clone https://github.com/sandipoguvarshitha/inventory-management-and-billing-system.git
 
-cd inventory-management-and-system
+cd inventory-management-and-billing-system
 ```
 
 ---
